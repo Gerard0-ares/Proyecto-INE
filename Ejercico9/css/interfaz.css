@@ -1,0 +1,16 @@
+#pSuperior{
+    background-image: url(.img/pSuperior.jpg);
+}
+
+.bg-white {
+    background-color: #ccc;
+}
+
+#descripcion {
+    resize: none;
+}
+
+.centrado {
+    text-align: center;
+    vertical-align: middle;
+}
